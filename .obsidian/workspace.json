@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Incorrect answer notes for junior developers/Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Incorrect answer notes for junior developers/Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Incorrect answer notes for junior developers/Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Incorrect answer notes for junior developers/Network.md"
               }
             }
           },
@@ -166,7 +166,10 @@
   },
   "active": "7500469b320698f4",
   "lastOpenFiles": [
-    "무제 파일.md",
-    "Intro"
+    "README.md",
+    "Incorrect answer notes for junior developers/Network.md",
+    "무제 폴더",
+    "Incorrect answer notes for junior developers/Summary of concepts needed for practice",
+    "Incorrect answer notes for junior developers"
   ]
 }
