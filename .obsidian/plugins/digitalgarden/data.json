@@ -2,7 +2,7 @@
   "githubRepo": "my-digital-garden",
   "githubToken": "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",
   "githubUserName": "Snug-gle",
-  "gardenBaseUrl": "",
+  "gardenBaseUrl": "https://my-garden.verce",
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
