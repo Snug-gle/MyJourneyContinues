@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "dg": "checkbox",
+    "dg-publish": "checkbox",
+    "dg-home": "checkbox"
+  }
+}

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "My Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "My Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "My Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.md"
+                "file": "My Garden.md"
               }
             }
           },
@@ -165,9 +165,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "33fe219e429b11fe",
+  "active": "5a3264a76026a3e1",
   "lastOpenFiles": [
-    "무제 파일 1.md",
+    "My Garden.md",
     "무제 파일.md",
     "Incorrect answer notes for junior developers/Network.md",
     "README.md",
