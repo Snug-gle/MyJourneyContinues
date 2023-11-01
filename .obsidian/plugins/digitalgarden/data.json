@@ -1,7 +1,7 @@
 {
-  "githubRepo": "",
-  "githubToken": "",
-  "githubUserName": "",
+  "githubRepo": "my-digital-garden",
+  "githubToken": "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",
+  "githubUserName": "Snug-gle",
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
