@@ -19,14 +19,11 @@
             "id": "33fe219e429b11fe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 334.8,
-                  "zoom": 0
-                }
+                "file": "My Garden.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "My Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "My Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "My Garden.md"
               }
             }
           },
@@ -178,8 +175,8 @@
   },
   "active": "33fe219e429b11fe",
   "lastOpenFiles": [
-    "My Garden.md",
     "무제 파일.canvas",
+    "My Garden.md",
     "무제 파일.md",
     "Incorrect answer notes for junior developers/Network.md",
     "README.md",
