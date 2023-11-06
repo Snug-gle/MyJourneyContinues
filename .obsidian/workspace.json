@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-06.md",
+                "file": "2023-11-06(java.enum).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-06.md",
+                "file": "2023-11-06(java.enum).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-06.md",
+                "file": "2023-11-06(java.enum).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-06.md"
+                "file": "2023-11-06(java.enum).md"
               }
             }
           },
@@ -176,7 +176,7 @@
   "active": "33fe219e429b11fe",
   "lastOpenFiles": [
     "무제 파일 1.md",
-    "2023-11-06.md",
+    "2023-11-06(java.enum).md",
     "TIL",
     "lecture",
     "My Garden.md",
