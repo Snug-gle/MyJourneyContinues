@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
+                "file": "gotOfJava/2023-11-13(exception).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
+                "file": "gotOfJava/2023-11-13(exception).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
+                "file": "gotOfJava/2023-11-13(exception).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md"
+                "file": "gotOfJava/2023-11-13(exception).md"
               }
             }
           },
@@ -175,16 +175,17 @@
   },
   "active": "33fe219e429b11fe",
   "lastOpenFiles": [
-    "My Garden.md",
+    "gotOfJava/2023-11-12(Object class, interface, abstract).md",
+    "gotOfJava/2023-11-06(enum).md",
+    "gotOfJava/2023-11-13(exception).md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
+    "My Garden.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics",
     "Algorithm/book",
     "Algorithm",
     "무제 파일.md",
     "README.md",
-    "gotOfJava/2023-11-06(java.enum).md",
     "무제 파일.canvas",
-    "gotOfJava/2023-11-12(java.Object class, interface, abstract).md",
     "gotOfJava",
     "무제 파일 1.md",
     "TIL",
