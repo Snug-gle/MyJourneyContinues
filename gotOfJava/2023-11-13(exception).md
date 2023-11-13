@@ -26,3 +26,4 @@ public class ExceptionSample {
 ##### try-catch 블록 내 변수선언
 - try 블록은 중괄호로 쌓여 있는 블록 -> 블록 내에 선언한 변수를 catch에서 사용할 수 없음
 - catch 문장에서 사용할 변수에 대해서는 try 앞에 미리 선언해 놓는다.
+##### finally
