@@ -35,5 +35,10 @@ public class ExceptionSample {
 ##### 예외의 종류는 세 가지
 ###### 1. checked exception
 ###### 2. error
+- 자바 프로그램 밖에서 발생한 예외. ex. 서버의 디스크가 고장, 메인보드 맛이감
+- 에러를 예외의 종류로 보기는 힘드나 오라클에서 분류를 하고 있음
+- 에러는 프로세스에 영향을 주고, exception은 쓰레드에만 영향을 줌
 ###### 3. runtime exception 혹은 unchecked exception
+- RuntimeException을 확장한 예외들.
+- 컴파일 시 예외 발생 하지 않고, 실행 시 예외 발생
 
