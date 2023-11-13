@@ -34,6 +34,7 @@ public class ExceptionSample {
 	-> 마지막 catch 블록에는 Exception 클래스로 묶어주는 습관 필요
 ##### 예외의 종류는 세 가지
 ###### 1. checked exception
+- Exception을 바로 확장한 클래스들
 ###### 2. error
 - 자바 프로그램 밖에서 발생한 예외. ex. 서버의 디스크가 고장, 메인보드 맛이감
 - 에러를 예외의 종류로 보기는 힘드나 오라클에서 분류를 하고 있음
@@ -42,3 +43,10 @@ public class ExceptionSample {
 - RuntimeException을 확장한 예외들.
 - 컴파일 시 예외 발생 하지 않고, 실행 시 예외 발생
 
+##### Throwable 클래스
+- getMessage()
+	- 예외 메세지를 String 형태로 제공 받음
+- toString()
+	- getMessage() 메서드보다는 약간 더 자세하게, 예외 클래스 이름도 같이 제공
+- printStackTrace()
+	- 가장 첫 줄에는 예외 메세지를 출력, 두 번째 줄부터는 예외가 발생학
