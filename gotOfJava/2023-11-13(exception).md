@@ -49,4 +49,4 @@ public class ExceptionSample {
 - toString()
 	- getMessage() 메서드보다는 약간 더 자세하게, 예외 클래스 이름도 같이 제공
 - printStackTrace()
-	- 가장 첫 줄에는 예외 메세지를 출력, 두 번째 줄부터는 예외가 발생학
+	- 가장 첫 줄에는 예외 메세지를 출력, 두 번째 줄부터는 예외가 발생하게 된 메서들의 호출 관계(스택 트레이스)를 출력
