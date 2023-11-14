@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gotOfJava/2023-11-13(exception).md",
+                "file": "gotOfJava/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gotOfJava/2023-11-13(exception).md",
+                "file": "gotOfJava/2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gotOfJava/2023-11-13(exception).md",
+                "file": "gotOfJava/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gotOfJava/2023-11-13(exception).md"
+                "file": "gotOfJava/2023-11-14.md"
               }
             }
           },
@@ -173,11 +173,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "33fe219e429b11fe",
+  "active": "5a3264a76026a3e1",
   "lastOpenFiles": [
+    "gotOfJava/2023-11-13(exception).md",
+    "gotOfJava/2023-11-14.md",
     "gotOfJava/2023-11-12(Object class, interface, abstract).md",
     "gotOfJava/2023-11-06(enum).md",
-    "gotOfJava/2023-11-13(exception).md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
     "My Garden.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics",
