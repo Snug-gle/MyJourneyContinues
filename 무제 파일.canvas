@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"abd3e0d12f62994d","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"dfdfdfdf\n"},
-		{"id":"2595ac6fb9cda351","x":-200,"y":160,"width":400,"height":140,"type":"file","file":"무제 파일.md"}
-	],
-	"edges":[
-		{"id":"86c5e93b4286851b","fromNode":"abd3e0d12f62994d","fromSide":"bottom","toNode":"2595ac6fb9cda351","toSide":"top"}
-	]
-}
