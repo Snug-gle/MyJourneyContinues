@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0622ec532c9f0c2",
+        "id": "38b161ce208f1c5a",
         "type": "tabs",
         "children": [
           {
-            "id": "5bedbd2ea1d5eb4d",
+            "id": "70c85515cb778cb3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "33fe219e429b11fe",
+            "id": "4cdeb58102b52919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -52,6 +52,14 @@
             }
           },
           {
+            "id": "df58493a66baf5f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "f7218b31d72fef7f",
             "type": "leaf",
             "state": {
@@ -65,21 +73,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "df58493a66baf5f9",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c11d488b0c57b618",
@@ -146,56 +145,49 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "580876bece799276",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a3264a76026a3e1",
+  "active": "4cdeb58102b52919",
   "lastOpenFiles": [
-    "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
-    "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "무제 파일.md",
+    "My Garden.md",
     "gotOfJava/2023-11-13(exception).md",
-    "gotOfJava/2023-11-14.md",
     "gotOfJava/2023-11-12(Object class, interface, abstract).md",
     "gotOfJava/2023-11-06(enum).md",
-    "My Garden.md",
+    "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
+    "lecture/Incorrect answer notes for junior developers/Network.md",
+    "lecture/Incorrect answer notes for junior developers",
+    "lecture",
+    "gotOfJava/2023-11-14.md",
+    "gotOfJava",
+    "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics",
     "Algorithm/book",
     "Algorithm",
-    "무제 파일.md",
-    "README.md",
     "무제 파일.canvas",
-    "gotOfJava",
-    "무제 파일 1.md",
-    "TIL",
-    "lecture",
-    "lecture/Incorrect answer notes for junior developers/Network.md",
+    "Incorrect answer notes for junior developers/Network.md",
+    "무제 폴더",
     "Incorrect answer notes for junior developers/Summary of concepts needed for practice",
-    "lecture/Incorrect answer notes for junior developers"
+    "Incorrect answer notes for junior developers"
   ]
 }
