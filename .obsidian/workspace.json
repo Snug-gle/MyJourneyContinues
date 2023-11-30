@@ -4,31 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b0622ec532c9f0c2",
+        "id": "a52073dcc1ce9236",
         "type": "tabs",
         "children": [
           {
-            "id": "5bedbd2ea1d5eb4d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "33fe219e429b11fe",
+            "id": "14d72e172a6623fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Garden.md",
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76856dc3e75df99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Garden.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Garden.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Garden.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -145,40 +148,32 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "580876bece799276",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33fe219e429b11fe",
+  "active": "14d72e172a6623fc",
   "lastOpenFiles": [
     "무제 파일.canvas",
     "My Garden.md",
-    "무제 파일.md",
     "Incorrect answer notes for junior developers/Network.md",
+    "무제 파일.md",
     "README.md",
     "무제 폴더",
     "Incorrect answer notes for junior developers/Summary of concepts needed for practice",
