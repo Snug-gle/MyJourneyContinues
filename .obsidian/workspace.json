@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
-                "mode": "preview",
+                "file": "2023-12-26.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
+                "file": "2023-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
+                "file": "2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md"
+                "file": "2023-12-26.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "4cdeb58102b52919",
   "lastOpenFiles": [
+    "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
+    "2023-12-26.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "무제 파일.md",
@@ -174,7 +176,6 @@
     "gotOfJava/2023-11-13(exception).md",
     "gotOfJava/2023-11-12(Object class, interface, abstract).md",
     "gotOfJava/2023-11-06(enum).md",
-    "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
     "lecture/Incorrect answer notes for junior developers/Network.md",
     "lecture/Incorrect answer notes for junior developers",
     "lecture",
