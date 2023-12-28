@@ -26,19 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dce0b723295df63d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dce0b723295df63d",
+  "active": "4cdeb58102b52919",
   "lastOpenFiles": [
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
     "2023-12-26.md",
