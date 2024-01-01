@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "멘탈모델.md",
+                "file": "lecture/spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "멘탈모델.md",
+                "file": "lecture/spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "멘탈모델.md",
+                "file": "lecture/spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "멘탈모델.md"
+                "file": "lecture/spring.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "e5465bd17a85adbf",
   "lastOpenFiles": [
-    "무기력 해소하기.md",
     "멘탈모델.md",
+    "lecture/spring.md",
+    "무기력 해소하기.md",
     "Spaces/Home/습관/습관.md",
     "README.md",
     "Spaces/Home/습관",
