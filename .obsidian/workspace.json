@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "무기력 해소하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "무기력 해소하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "무기력 해소하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "무기력 해소하기.md"
               }
             }
           },
@@ -176,8 +176,10 @@
   },
   "active": "0220ff1f32bc9ebc",
   "lastOpenFiles": [
-    "2024-01-01.md",
+    "Spaces/Home/습관/습관.md",
     "README.md",
+    "Spaces/Home/습관",
+    "무기력 해소하기.md",
     "Spaces/Home",
     "Spaces",
     "2023-12-26.md",
@@ -199,7 +201,6 @@
     "Algorithm",
     "무제 파일.canvas",
     "Incorrect answer notes for junior developers/Network.md",
-    "무제 폴더",
-    "Incorrect answer notes for junior developers/Summary of concepts needed for practice"
+    "무제 폴더"
   ]
 }
