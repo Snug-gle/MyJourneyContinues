@@ -23,11 +23,9 @@
             "id": "e5465bd17a85adbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "lecture/spring.md",
-                "mode": "source",
-                "source": false
+                "path": "TIL"
               }
             }
           }
@@ -94,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture/spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "lecture/spring.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,8 +183,8 @@
   },
   "active": "e5465bd17a85adbf",
   "lastOpenFiles": [
-    "멘탈모델.md",
     "lecture/spring.md",
+    "멘탈모델.md",
     "무기력 해소하기.md",
     "Spaces/Home/습관/습관.md",
     "README.md",
