@@ -23,9 +23,11 @@
             "id": "e5465bd17a85adbf",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "TIL"
+                "file": "2024-01-14.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-14.md"
+              }
             }
           },
           {
@@ -183,6 +189,7 @@
   },
   "active": "e5465bd17a85adbf",
   "lastOpenFiles": [
+    "2024-01-14.md",
     "lecture/spring.md",
     "멘탈모델.md",
     "무기력 해소하기.md",
