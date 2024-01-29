@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "40537d7e225f02df",
+        "id": "22f717a28c31cd07",
         "type": "tabs",
         "children": [
           {
-            "id": "0220ff1f32bc9ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무기력 해소하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5465bd17a85adbf",
+            "id": "b23f90ca039aac65",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces"
+                "path": "Spaces/Home/Resource"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,11 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5465bd17a85adbf",
+  "active": "b23f90ca039aac65",
   "lastOpenFiles": [
+    "Spaces/Home/Resource/Resource.md",
     "Spaces/Home/Area/Area.md",
     "Spaces/Home/Project/Project.md",
-    "Spaces/Home/Resource/Resource.md",
     "Spaces/Home/Archive/Archive.md",
     "Spaces/Home/Archive",
     "Spaces/Home/Resource",
