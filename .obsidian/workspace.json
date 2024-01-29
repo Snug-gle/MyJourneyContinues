@@ -23,11 +23,9 @@
             "id": "e5465bd17a85adbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "2024-01-28.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces"
               }
             }
           }
@@ -115,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-01-28.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,12 +183,22 @@
   },
   "active": "e5465bd17a85adbf",
   "lastOpenFiles": [
-    "2024-01-14.md",
+    "Spaces/Home/Area/Area.md",
+    "Spaces/Home/Project/Project.md",
+    "Spaces/Home/Resource/Resource.md",
+    "Spaces/Home/Archive/Archive.md",
+    "Spaces/Home/Archive",
+    "Spaces/Home/Resource",
+    "Resource/Resources.md",
+    "Spaces/Home/습관/습관.md",
+    "Spaces/Home/Area",
+    "Resource",
     "2024-01-28.md",
+    "Spaces/Home/Project",
+    "2024-01-14.md",
     "lecture/spring.md",
     "멘탈모델.md",
     "무기력 해소하기.md",
-    "Spaces/Home/습관/습관.md",
     "README.md",
     "Spaces/Home/습관",
     "Spaces/Home",
@@ -210,13 +214,8 @@
     "lecture/Incorrect answer notes for junior developers",
     "lecture",
     "gotOfJava/2023-11-14.md",
-    "gotOfJava",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
-    "Algorithm/book/Algorithms for Problem Solving with Mathematics",
-    "Algorithm/book",
-    "Algorithm",
     "무제 파일.canvas",
-    "Incorrect answer notes for junior developers/Network.md",
-    "무제 폴더"
+    "Incorrect answer notes for junior developers/Network.md"
   ]
 }
