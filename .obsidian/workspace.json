@@ -11,8 +11,12 @@
             "id": "766bf13df89f852d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-28.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-28.md"
+              }
             }
           },
           {
@@ -157,8 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1b0120178917e76",
+  "active": "766bf13df89f852d",
   "lastOpenFiles": [
+    "README.md",
+    "멘탈모델.md",
+    "무기력 해소하기.md",
+    "undefined.md",
     "2023-12-26.md",
     "My Garden.md",
     "gotOfJava/2023-11-06(enum).md",
@@ -168,7 +180,6 @@
     "Spaces/Home/Resource/Resource.md",
     "Spaces/무제 파일.md",
     "Spaces/Home/Resource/.md",
-    "undefined.md",
     "Spaces/Home/Area/Area.md",
     "Spaces/Home/Project/Project.md",
     "Spaces/Home/Archive/Archive.md",
@@ -182,9 +193,6 @@
     "Spaces/Home/Project",
     "2024-01-14.md",
     "lecture/spring.md",
-    "멘탈모델.md",
-    "무기력 해소하기.md",
-    "README.md",
     "Spaces/Home/습관",
     "Spaces/Home",
     "Spaces",
