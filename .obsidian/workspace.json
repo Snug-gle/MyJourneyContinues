@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "28ffff4ae272497d",
+        "id": "2b31ba0abff5ec6c",
         "type": "tabs",
         "children": [
           {
-            "id": "766bf13df89f852d",
+            "id": "b6cf9c6d877b05f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-28.md",
+                "file": "교착 상태.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a80c921f84c8ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회피 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,21 +77,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "f1b0120178917e76",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "right": {
     "id": "c11d488b0c57b618",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-28.md",
+                "file": "회피 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-28.md",
+                "file": "회피 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-28.md"
+                "file": "회피 알고리즘.md"
               }
             }
           },
@@ -161,46 +165,44 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "766bf13df89f852d",
+  "active": "1a80c921f84c8ac4",
   "lastOpenFiles": [
-    "README.md",
-    "멘탈모델.md",
-    "무기력 해소하기.md",
-    "undefined.md",
-    "2023-12-26.md",
-    "My Garden.md",
-    "gotOfJava/2023-11-06(enum).md",
-    "gotOfJava/2023-11-12(Object class, interface, abstract).md",
-    "gotOfJava/2023-11-13(exception).md",
-    "lecture/Incorrect answer notes for junior developers/Network.md",
+    "교착 상태.md",
+    "회피 알고리즘.md",
+    "conflict-files-obsidian-git.md",
     "Spaces/Home/Resource/Resource.md",
-    "Spaces/무제 파일.md",
-    "Spaces/Home/Resource/.md",
-    "Spaces/Home/Area/Area.md",
+    "Spaces/Home/Resource",
     "Spaces/Home/Project/Project.md",
+    "Spaces/Home/Project",
+    "Spaces/Home/Area/Area.md",
+    "Spaces/Home/Area",
     "Spaces/Home/Archive/Archive.md",
     "Spaces/Home/Archive",
-    "Spaces/Home/Resource",
-    "Resource/Resources.md",
-    "Spaces/Home/습관/습관.md",
-    "Spaces/Home/Area",
-    "Resource",
+    "무기력 해소하기.md",
+    "README.md",
+    "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
+    "2024-01-29.md",
+    "멘탈모델.md",
     "2024-01-28.md",
-    "Spaces/Home/Project",
+    "2023-12-26.md",
     "2024-01-14.md",
+    "My Garden.md",
     "lecture/spring.md",
+    "Spaces/Home/습관/습관.md",
     "Spaces/Home/습관",
     "Spaces/Home",
     "Spaces",
-    "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
-    "conflict-files-obsidian-git.md",
+    "gotOfJava/2023-11-13(exception).md",
+    "gotOfJava/2023-11-12(Object class, interface, abstract).md",
+    "gotOfJava/2023-11-06(enum).md",
+    "lecture/Incorrect answer notes for junior developers/Network.md",
     "lecture/Incorrect answer notes for junior developers",
     "lecture",
     "gotOfJava/2023-11-14.md",
+    "gotOfJava",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
     "무제 파일.canvas",
     "Incorrect answer notes for junior developers/Network.md"
