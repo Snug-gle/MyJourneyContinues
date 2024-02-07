@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-07.md",
+                "file": "교착 상태.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a80c921f84c8ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회피 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-07.md",
+                "file": "회피 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-07.md",
+                "file": "회피 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-07.md"
+                "file": "회피 알고리즘.md"
               }
             }
           },
@@ -155,9 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6cf9c6d877b05f4",
+  "active": "1a80c921f84c8ac4",
   "lastOpenFiles": [
-    "2024-02-07.md",
+    "교착 상태.md",
+    "회피 알고리즘.md",
     "conflict-files-obsidian-git.md",
     "Spaces/Home/Resource/Resource.md",
     "Spaces/Home/Resource",
@@ -181,7 +195,6 @@
     "Spaces/Home/습관",
     "Spaces/Home",
     "Spaces",
-    "무제 파일.md",
     "gotOfJava/2023-11-13(exception).md",
     "gotOfJava/2023-11-12(Object class, interface, abstract).md",
     "gotOfJava/2023-11-06(enum).md",
