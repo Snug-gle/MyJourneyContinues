@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2c726cd3291dd74",
+        "id": "860df2913717fda8",
         "type": "tabs",
         "children": [
           {
-            "id": "be5a3ae2a36cb53b",
+            "id": "5f1c3a1be7fad39e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 607.5
+    "width": 325.5
   },
   "right": {
     "id": "c11d488b0c57b618",
@@ -155,9 +155,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be5a3ae2a36cb53b",
+  "active": "5f1c3a1be7fad39e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Spaces/Home/Resource/Resource.md",
+    "Spaces/Home/Resource",
+    "Spaces/Home/Project/Project.md",
+    "Spaces/Home/Project",
+    "Spaces/Home/Area/Area.md",
+    "Spaces/Home/Area",
+    "Spaces/Home/Archive/Archive.md",
+    "Spaces/Home/Archive",
     "무기력 해소하기.md",
     "README.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
@@ -182,11 +190,7 @@
     "gotOfJava/2023-11-14.md",
     "gotOfJava",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
-    "Algorithm/book/Algorithms for Problem Solving with Mathematics",
-    "Algorithm/book",
-    "Algorithm",
     "무제 파일.canvas",
-    "Incorrect answer notes for junior developers/Network.md",
-    "무제 폴더"
+    "Incorrect answer notes for junior developers/Network.md"
   ]
 }
