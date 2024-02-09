@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/무제 파일.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/무제 파일.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/무제 파일.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/무제 파일.md"
+                "file": "README.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "5eaa4d51e298a0ff",
   "lastOpenFiles": [
-    "LANG.md",
+    "lecture/spring.md",
     "Inbox/무제 파일.md",
+    "LANG.md",
     "Developer.md",
     "JAVA.md",
     "Programming.md",
@@ -233,12 +234,11 @@
     "무제 파일.canvas",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
-    "lecture/Incorrect answer notes for junior developers/Network.md",
+    "Incorrect answer notes for junior developers/Network.md",
     "멘탈모델.md",
     "회피 알고리즘.md",
     "README.md",
     "무기력 해소하기.md",
-    "undefined.md",
     "Spaces/Home/Archive",
     "Spaces/Home/Resource",
     "Spaces/Home/Area",
