@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "28ffff4ae272497d",
+        "id": "c0f3d3e1d2df959f",
         "type": "tabs",
         "children": [
           {
-            "id": "766bf13df89f852d",
+            "id": "c13f7de1d4c096dc",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "무제 파일.canvas",
                 "viewState": {
-                  "x": 93.78125,
-                  "y": 9.88671875,
+                  "x": 25,
+                  "y": 35,
                   "zoom": 0
                 }
               }
@@ -69,15 +69,14 @@
             }
           },
           {
-            "id": "f1b0120178917e76",
+            "id": "3e486517461e88df",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "766bf13df89f852d",
+  "active": "c13f7de1d4c096dc",
   "lastOpenFiles": [
+    "Spaces/Home/Resource/Resource.md",
+    "무제 파일.canvas",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
     "Spaces/Home/Project/Project.md",
@@ -195,7 +196,6 @@
     "2024-01-29.md",
     "멘탈모델.md",
     "2024-02-09.md",
-    "무제 파일.canvas",
     "2024-01-28.md",
     "회피 알고리즘.md",
     "교착 상태.md",
@@ -205,7 +205,6 @@
     "2023-12-26.md",
     "My Garden.md",
     "gotOfJava/2023-11-13(exception).md",
-    "Spaces/Home/Resource/Resource.md",
     "Spaces/무제 파일.md",
     "Spaces/Home/Resource/.md",
     "Spaces/Home/Archive",
@@ -215,7 +214,6 @@
     "Spaces/Home/Area",
     "Resource",
     "Spaces/Home/Project",
-    "2024-01-14.md",
     "Spaces/Home/습관",
     "Spaces/Home",
     "Spaces",
