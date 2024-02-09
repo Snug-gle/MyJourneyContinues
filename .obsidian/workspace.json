@@ -101,7 +101,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             },
@@ -266,7 +266,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "237aa66f79c90eb4",
+  "active": "565a40db1977446d",
   "lastOpenFiles": [
     "Developer.md",
     "Programming.md",
