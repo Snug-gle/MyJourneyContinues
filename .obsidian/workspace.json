@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gotOfJava/2023-11-06(enum).md",
+                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gotOfJava/2023-11-06(enum).md",
+                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gotOfJava/2023-11-06(enum).md",
+                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gotOfJava/2023-11-06(enum).md"
+                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md"
               }
             }
           },
@@ -147,11 +147,26 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "05afc2b997fbc632",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c0dbdab5290147a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,15 +180,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "766bf13df89f852d",
+  "active": "e5af245e949252a9",
   "lastOpenFiles": [
+    "gotOfJava/2023-11-06(enum).md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
     "lecture/Incorrect answer notes for junior developers/Network.md",
     "gotOfJava/2023-11-12(Object class, interface, abstract).md",
     "2024-01-29.md",
     "멘탈모델.md",
-    "gotOfJava/2023-11-06(enum).md",
     "2024-02-09.md",
     "무제 파일.canvas",
     "2024-01-28.md",
