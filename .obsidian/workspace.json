@@ -8,20 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c13f7de1d4c096dc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "1465ef8d3c67a50d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Spaces/Home/Area.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbc7167465885c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cc1b0dff4bf8fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LANG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf7f7cf7b2159d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +65,7 @@
             "group": "36548a057d83d7b6"
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7ab7cf098cc75d8b",
@@ -153,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Area.md",
+                "file": "LANG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Area.md",
+                "file": "LANG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Area.md"
+                "file": "LANG.md"
               }
             }
           },
@@ -238,17 +266,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1465ef8d3c67a50d",
+  "active": "1cc1b0dff4bf8fc5",
   "lastOpenFiles": [
-    "JAVA.md",
-    "LANG.md",
     "Developer.md",
     "Spaces/Home/Area.md",
+    "JAVA.md",
+    "null 체크.md",
+    "LANG.md",
     "Spaces/Home/Resource.md",
     "Spaces/Home/Archive.md",
     "Spaces/Home/Project.md",
     "Spaces/Home/Resource/Resource.md",
-    "2023-12-26.md",
     "무제 파일.canvas",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
