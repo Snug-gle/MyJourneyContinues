@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad9a575043c4957e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LANG.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5eaa4d51e298a0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developer.md",
+                "file": "Inbox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developer.md",
+                "file": "Inbox/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developer.md"
+                "file": "Inbox/무제 파일.md"
               }
             }
           },
@@ -179,13 +206,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37f3f43a87866ffd",
+  "active": "5eaa4d51e298a0ff",
   "lastOpenFiles": [
+    "LANG.md",
+    "Inbox/무제 파일.md",
+    "Developer.md",
     "JAVA.md",
     "Programming.md",
-    "Developer.md",
     "Spaces/Home/Area.md",
-    "LANG.md",
     "Templates",
     "Daily Notes",
     "Files",
