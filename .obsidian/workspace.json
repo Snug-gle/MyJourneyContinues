@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Programming.md"
               }
             }
           },
@@ -171,6 +171,18 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "b58c544181e507ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -208,6 +220,7 @@
   },
   "active": "5eaa4d51e298a0ff",
   "lastOpenFiles": [
+    "README.md",
     "lecture/spring.md",
     "Inbox/무제 파일.md",
     "LANG.md",
@@ -237,7 +250,6 @@
     "Incorrect answer notes for junior developers/Network.md",
     "멘탈모델.md",
     "회피 알고리즘.md",
-    "README.md",
     "무기력 해소하기.md",
     "Spaces/Home/Archive",
     "Spaces/Home/Resource",
