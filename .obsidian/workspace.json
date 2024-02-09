@@ -11,15 +11,8 @@
             "id": "c13f7de1d4c096dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 25,
-                  "y": 35,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "무제 파일.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -183,12 +172,12 @@
   },
   "active": "c13f7de1d4c096dc",
   "lastOpenFiles": [
-    "Spaces/Home/Resource/Resource.md",
+    "Spaces/Home/Area/Area.md",
     "무제 파일.canvas",
+    "Spaces/Home/Resource/Resource.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
     "Spaces/Home/Project/Project.md",
-    "Spaces/Home/Area/Area.md",
     "Spaces/Home/Archive/Archive.md",
     "gotOfJava/2023-11-06(enum).md",
     "lecture/Incorrect answer notes for junior developers/Network.md",
