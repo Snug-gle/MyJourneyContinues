@@ -21,27 +21,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Project.md",
+                "file": "JAVA.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "cf59dedf7d018726",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             },
-            "group": "0a4a2c9b0f8c9091"
+            "group": "36548a057d83d7b6"
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "c809e2b65c16faa5",
+        "id": "7ab7cf098cc75d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "b22500c403d9940d",
+            "id": "565a40db1977446d",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Home/Project.md",
+                "file": "Spaces/Home/Area.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -52,7 +60,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
@@ -69,7 +77,7 @@
                 }
               }
             },
-            "group": "0a4a2c9b0f8c9091"
+            "group": "36548a057d83d7b6"
           }
         ]
       }
@@ -145,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Project.md",
+                "file": "JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Project.md",
+                "file": "JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Project.md"
+                "file": "JAVA.md"
               }
             }
           },
@@ -198,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "05afc2b997fbc632",
@@ -230,18 +238,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a3264a76026a3e1",
+  "active": "1465ef8d3c67a50d",
   "lastOpenFiles": [
+    "LANG.md",
+    "Developer.md",
+    "Spaces/Home/Area.md",
+    "Spaces/Home/Resource.md",
+    "Spaces/Home/Archive.md",
+    "Spaces/Home/Project.md",
     "JAVA.md",
     "Spaces/Home/Resource/Resource.md",
-    "LANG.md",
     "2023-12-26.md",
-    "Spaces/Home/Project.md",
-    "Spaces/Home/Area.md",
     "무제 파일.canvas",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
-    "Spaces/Home/Archive.md",
     "gotOfJava/2023-11-06(enum).md",
     "lecture/Incorrect answer notes for junior developers/Network.md",
     "gotOfJava/2023-11-12(Object class, interface, abstract).md",
@@ -256,11 +266,9 @@
     "undefined.md",
     "My Garden.md",
     "gotOfJava/2023-11-13(exception).md",
-    "Spaces/무제 파일.md",
     "Spaces/Home/Resource/.md",
     "Spaces/Home/Archive",
     "Spaces/Home/Resource",
-    "Resource/Resources.md",
     "Spaces/Home/Area",
     "Resource",
     "Spaces/Home/Project",
