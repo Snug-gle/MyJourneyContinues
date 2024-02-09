@@ -4,108 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0f3d3e1d2df959f",
+        "id": "4b7dba254fd76662",
         "type": "tabs",
         "children": [
           {
-            "id": "1465ef8d3c67a50d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Area.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbc7167465885c64",
+            "id": "37f3f43a87866ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Developer.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "237aa66f79c90eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf7f7cf7b2159d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf59dedf7d018726",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            },
-            "group": "36548a057d83d7b6"
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7ab7cf098cc75d8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "565a40db1977446d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Spaces/Home/Area.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "36548a057d83d7b6"
           }
         ]
       }
@@ -181,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming.md",
+                "file": "Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming.md",
+                "file": "Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming.md"
+                "file": "Developer.md"
               }
             }
           },
@@ -266,14 +179,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a3264a76026a3e1",
+  "active": "37f3f43a87866ffd",
   "lastOpenFiles": [
+    "JAVA.md",
+    "Programming.md",
+    "Developer.md",
+    "Spaces/Home/Area.md",
+    "LANG.md",
     "Templates",
     "Daily Notes",
     "Files",
     "Inbox",
-    "Developer.md",
-    "Programming.md",
     "Spaces/Home/Project.md",
     "Spaces/Home/Resource.md",
     "gotOfJava/2023-11-12(Object class, interface, abstract).md",
@@ -284,9 +200,6 @@
     "2024-01-29.md",
     "Null.md",
     "null 체크.md",
-    "LANG.md",
-    "Spaces/Home/Area.md",
-    "JAVA.md",
     "Spaces/Home/Archive.md",
     "Spaces/Home/Resource/Resource.md",
     "무제 파일.canvas",
@@ -303,7 +216,6 @@
     "Spaces/Home/Area",
     "Resource",
     "Spaces/Home/Project",
-    "Spaces/Home/습관",
-    "Spaces/Home"
+    "Spaces/Home/습관"
   ]
 }
