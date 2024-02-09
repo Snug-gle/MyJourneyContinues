@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Project",
@@ -25,14 +25,14 @@
       "query": "Area",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5431401
       }
     },
     {
       "query": "Archive",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 5413856
       }
     }
   ],
