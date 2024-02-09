@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA.md",
+                "file": "Spaces/Home/Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA.md",
+                "file": "Spaces/Home/Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA.md",
+                "file": "Spaces/Home/Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA.md"
+                "file": "Spaces/Home/Area.md"
               }
             }
           },
@@ -240,13 +240,13 @@
   },
   "active": "1465ef8d3c67a50d",
   "lastOpenFiles": [
+    "JAVA.md",
     "LANG.md",
     "Developer.md",
     "Spaces/Home/Area.md",
     "Spaces/Home/Resource.md",
     "Spaces/Home/Archive.md",
     "Spaces/Home/Project.md",
-    "JAVA.md",
     "Spaces/Home/Resource/Resource.md",
     "2023-12-26.md",
     "무제 파일.canvas",
