@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gotOfJava/2023-11-12(Object class, interface, abstract).md",
+                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gotOfJava/2023-11-12(Object class, interface, abstract).md",
+                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gotOfJava/2023-11-12(Object class, interface, abstract).md",
+                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gotOfJava/2023-11-12(Object class, interface, abstract).md"
+                "file": "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md"
               }
             }
           },
@@ -167,23 +167,24 @@
   },
   "active": "766bf13df89f852d",
   "lastOpenFiles": [
-    "gotOfJava/2023-11-06(enum).md",
-    "gotOfJava/2023-11-12(Object class, interface, abstract).md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
+    "lecture/Incorrect answer notes for junior developers/Network.md",
+    "gotOfJava/2023-11-12(Object class, interface, abstract).md",
+    "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
+    "2024-01-29.md",
+    "멘탈모델.md",
+    "gotOfJava/2023-11-06(enum).md",
     "2024-02-09.md",
     "무제 파일.canvas",
     "2024-01-28.md",
     "회피 알고리즘.md",
     "교착 상태.md",
-    "2024-01-29.md",
     "README.md",
-    "멘탈모델.md",
     "무기력 해소하기.md",
     "undefined.md",
     "2023-12-26.md",
     "My Garden.md",
     "gotOfJava/2023-11-13(exception).md",
-    "lecture/Incorrect answer notes for junior developers/Network.md",
     "Spaces/Home/Resource/Resource.md",
     "Spaces/무제 파일.md",
     "Spaces/Home/Resource/.md",
@@ -198,7 +199,6 @@
     "Resource",
     "Spaces/Home/Project",
     "2024-01-14.md",
-    "lecture/spring.md",
     "Spaces/Home/습관",
     "Spaces/Home",
     "Spaces",
