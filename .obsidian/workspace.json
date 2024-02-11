@@ -89,19 +89,19 @@
         "currentTab": 5
       },
       {
-        "id": "9aa96b8d45bd4efe",
+        "id": "9a1f8e1d4181ebbd",
         "type": "tabs",
         "children": [
           {
-            "id": "b2efacbb9ce46eb9",
+            "id": "a1cd18c79ac4dd2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/무제 파일 2.md",
+                "file": "Inbox/무제 파일 1.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/무제 파일 2.md",
+                "file": "Inbox/무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/무제 파일 2.md",
+                "file": "Inbox/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/무제 파일 2.md"
+                "file": "Inbox/무제 파일 1.md"
               }
             }
           },
@@ -279,10 +279,10 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "b2efacbb9ce46eb9",
+  "active": "a1cd18c79ac4dd2f",
   "lastOpenFiles": [
-    "Inbox/무제 파일 1.md",
     "Inbox/무제 파일 2.md",
+    "Inbox/무제 파일 1.md",
     "Inbox/To do.md",
     "Templates/템플릿.md",
     "Programming.md",
