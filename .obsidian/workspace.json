@@ -71,9 +71,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d35e19720c20f166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/무제 파일 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "9aa96b8d45bd4efe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2efacbb9ce46eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/무제 파일 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/To do.md",
+                "file": "Inbox/무제 파일 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/To do.md",
+                "file": "Inbox/무제 파일 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/To do.md"
+                "file": "Inbox/무제 파일 2.md"
               }
             }
           },
@@ -230,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,13 +275,16 @@
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "3aa6b22de49804ff",
+  "active": "b2efacbb9ce46eb9",
   "lastOpenFiles": [
-    "Templates/템플릿.md",
+    "Inbox/무제 파일 1.md",
+    "Inbox/무제 파일 2.md",
     "Inbox/To do.md",
+    "Templates/템플릿.md",
     "Programming.md",
     "README.md",
     "lecture/spring.md",
@@ -276,8 +312,6 @@
     "무제 파일.canvas",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/2. 알고리즘을 위한 기본적인 수학.md",
     "Algorithm/book/Algorithms for Problem Solving with Mathematics/1. 알고리즘과 수학의 관계.md",
-    "Incorrect answer notes for junior developers/Network.md",
-    "멘탈모델.md",
     "Spaces/Home/Archive",
     "Spaces/Home/Resource",
     "Spaces/Home/Area",
