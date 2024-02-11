@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/템플릿.md",
+                "file": "Templates/템플릿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/템플릿.md",
+                "file": "Templates/템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/템플릿.md",
+                "file": "Templates/템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/템플릿.md"
+                "file": "Templates/템플릿.md"
               }
             }
           },
@@ -232,10 +232,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8342e7b88756b468",
+  "active": "5a3264a76026a3e1",
   "lastOpenFiles": [
     "Programming.md",
-    "Inbox/템플릿.md",
+    "Templates/템플릿.md",
     "README.md",
     "lecture/spring.md",
     "Inbox/무제 파일.md",
