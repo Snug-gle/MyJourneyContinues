@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Object-Oriented Programming.md",
+                "file": "lecture/Kim's Java in Practice/Object-Oriented Programming.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2588a39e066fad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture/Kim's Java in Practice/Constructor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b65bef17d1d6829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture/Kim's Java in Practice/Constructor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "9ba767db560a5a08",
@@ -32,14 +59,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture/Class and Data.md",
+                "file": "Inbox/Package.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f048d45d6a55ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Access modifier.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bacbcbdbd74efdca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/무제 파일 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Object-Oriented Programming.md",
+                "file": "Inbox/무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Object-Oriented Programming.md",
+                "file": "Inbox/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Object-Oriented Programming.md"
+                "file": "Inbox/무제 파일 1.md"
               }
             }
           },
@@ -212,14 +266,18 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "87468661b7a22dc3",
+  "active": "bacbcbdbd74efdca",
   "lastOpenFiles": [
-    "lecture/Class and Data.md",
+    "Inbox/Access modifier.md",
+    "Inbox/무제 파일 1.md",
+    "Inbox/Package.md",
+    "lecture/Kim's Java in Practice/Class and Data.md",
+    "lecture/Kim's Java in Practice/Constructor.md",
+    "lecture/Kim's Java in Practice/Object-Oriented Programming.md",
     "Inbox/Developer.md",
     "Inbox/LANG.md",
     "Inbox/Programming.md",
     "Templates/템플릿.md",
-    "Inbox/Object-Oriented Programming.md",
     "lecture/spring.md",
     "lecture/Kim's Java in Practice/Section 1/무제 폴더",
     "lecture/Kim's Java in Practice/Section 2",
@@ -246,10 +304,6 @@
     "Spaces/Home/Resource.md",
     "gotOfJava/2023-11-12(Object class, interface, abstract).md",
     "gotOfJava/2023-11-06(enum).md",
-    "Inbox/교착 상태.md",
-    "2024-02-09.md",
-    "2024-01-29.md",
-    "null 체크.md",
     "Inbox/무제 파일.canvas"
   ]
 }
