@@ -8,72 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37f3f43a87866ffd",
+            "id": "87468661b7a22dc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Developer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad9a575043c4957e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/LANG.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5eaa4d51e298a0ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Programming.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8342e7b88756b468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/템플릿.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aa6b22de49804ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture/spring.md",
+                "file": "Inbox/Object-Oriented Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "9ba767db560a5a08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa6b22de49804ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture/Class and Data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture/spring.md",
+                "file": "Inbox/Object-Oriented Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/spring.md",
+                "file": "Inbox/Object-Oriented Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture/spring.md"
+                "file": "Inbox/Object-Oriented Programming.md"
               }
             }
           },
@@ -246,12 +212,18 @@
       "kr-book-info-plugin:Add Book Info": false
     }
   },
-  "active": "5a3264a76026a3e1",
+  "active": "87468661b7a22dc3",
   "lastOpenFiles": [
+    "lecture/Class and Data.md",
+    "Inbox/Developer.md",
+    "Inbox/LANG.md",
+    "Inbox/Programming.md",
+    "Templates/템플릿.md",
+    "Inbox/Object-Oriented Programming.md",
+    "lecture/spring.md",
     "lecture/Kim's Java in Practice/Section 1/무제 폴더",
     "lecture/Kim's Java in Practice/Section 2",
     "lecture/Kim's Java in Practice/Section 1",
-    "Inbox/Programming.md",
     "lecture/Kim's Java in Practice/Class and Data",
     "lecture/Java/Kim's Java in Practice.md",
     "lecture/Kim's Java in Practice",
@@ -263,11 +235,7 @@
     "Inbox/dataview sample.md",
     "Inbox/무제 파일 2.md",
     "Inbox/To do.md",
-    "Templates/템플릿.md",
-    "lecture/spring.md",
     "Inbox/무제 파일.md",
-    "Inbox/LANG.md",
-    "Inbox/Developer.md",
     "Inbox/JAVA.md",
     "Spaces/Home/Area.md",
     "Templates",
@@ -282,8 +250,6 @@
     "2024-02-09.md",
     "2024-01-29.md",
     "null 체크.md",
-    "Spaces/Home/Archive.md",
-    "Inbox/무제 파일.canvas",
-    "Spaces/Home/Archive"
+    "Inbox/무제 파일.canvas"
   ]
 }
