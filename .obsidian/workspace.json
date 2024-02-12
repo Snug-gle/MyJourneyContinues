@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture/Java.md",
+                "file": "lecture/spring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture/Java.md",
+                "file": "lecture/spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/Java.md",
+                "file": "lecture/spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture/Java.md"
+                "file": "lecture/spring.md"
               }
             }
           },
@@ -248,9 +248,15 @@
   },
   "active": "5a3264a76026a3e1",
   "lastOpenFiles": [
-    "lecture/Java",
+    "lecture/Kim's Java in Practice/Section 1/무제 폴더",
+    "lecture/Kim's Java in Practice/Section 2",
+    "lecture/Kim's Java in Practice/Section 1",
     "Inbox/Programming.md",
+    "lecture/Kim's Java in Practice/Class and Data",
+    "lecture/Java/Kim's Java in Practice.md",
+    "lecture/Kim's Java in Practice",
     "lecture/Java.md",
+    "Java",
     "Inbox/Null.md",
     "README.md",
     "Inbox/2024-01-28.md",
@@ -277,13 +283,7 @@
     "2024-01-29.md",
     "null 체크.md",
     "Spaces/Home/Archive.md",
-    "Spaces/Home/Resource/Resource.md",
     "Inbox/무제 파일.canvas",
-    "Spaces/Home/Archive",
-    "Spaces/Home/Resource",
-    "Spaces/Home/Area",
-    "Resource",
-    "Spaces/Home/Project",
-    "Spaces/Home/습관"
+    "Spaces/Home/Archive"
   ]
 }
