@@ -6,5 +6,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
   "attachmentFolderPath": "Files",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true
 }
