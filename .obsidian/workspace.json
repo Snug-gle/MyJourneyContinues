@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/To do.md",
+                "file": "Daily Notes/2024-02-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,78 +61,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "9ba767db560a5a08",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3aa6b22de49804ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Package.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f048d45d6a55ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Access modifier.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bacbcbdbd74efdca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/JVM and Static.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "080459ee4d021edc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Final.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "111c2c5e82f56729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Inheritance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/To do.md",
+                "file": "Daily Notes/2024-02-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/To do.md",
+                "file": "Daily Notes/2024-02-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/To do.md"
+                "file": "Daily Notes/2024-02-18.md"
               }
             }
           },
@@ -307,6 +235,8 @@
   },
   "active": "06e3ea7b3f184972",
   "lastOpenFiles": [
+    "Inbox/To do.md",
+    "Daily Notes/2024-02-18.md",
     "Inbox/Polymorphism.md",
     "Inbox/무제 파일.md",
     "lecture/Kim's Java in Practice/Constructor.md",
@@ -335,14 +265,12 @@
     "Inbox/2024-01-28.md",
     "Inbox/dataview sample.md",
     "Inbox/무제 파일 2.md",
-    "Inbox/To do.md",
     "Inbox/JAVA.md",
     "Spaces/Home/Area.md",
     "Templates",
     "Daily Notes",
     "Files",
     "Inbox",
-    "Spaces/Home/Project.md",
     "Inbox/무제 파일.canvas"
   ]
 }
