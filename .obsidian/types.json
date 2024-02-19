@@ -3,9 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "dg": "checkbox",
-    "dg-publish": "checkbox",
-    "dg-home": "checkbox",
     "excalidraw-plugin": "text",
     "excalidraw-export-transparent": "checkbox",
     "excalidraw-mask": "checkbox",
@@ -23,6 +20,7 @@
     "excalidraw-border-color": "text",
     "excalidraw-css": "text",
     "excalidraw-autoexport": "checkbox",
-    "excalidraw-iframe-theme": "text"
+    "excalidraw-iframe-theme": "text",
+    "checkbox": "checkbox"
   }
 }

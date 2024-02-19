@@ -1,1 +1,11 @@
-{}
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "livePreview": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "Files",
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true
+}
