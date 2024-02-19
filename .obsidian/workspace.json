@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b81abb212a671bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회피 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99f7546e0fb99628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회피 알고리즘.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회피 알고리즘.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회피 알고리즘.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -168,13 +192,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a80c921f84c8ac4",
+  "active": "99f7546e0fb99628",
   "lastOpenFiles": [
+    "회피 알고리즘.md",
+    "conflict-files-obsidian-git.md",
     "무제 파일.canvas",
     "2024-02-09.md",
     "교착 상태.md",
-    "회피 알고리즘.md",
-    "conflict-files-obsidian-git.md",
     "Spaces/Home/Resource/Resource.md",
     "Spaces/Home/Resource",
     "Spaces/Home/Project/Project.md",
