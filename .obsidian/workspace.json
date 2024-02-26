@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/필터와 인터셉터.md",
+                "file": "Inbox/2024-01-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/필터와 인터셉터.md",
+                "file": "Inbox/2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/필터와 인터셉터.md",
+                "file": "Inbox/2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/필터와 인터셉터.md"
+                "file": "Inbox/2024-01-28.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "1ee53acf785031ef",
   "lastOpenFiles": [
-    "Inbox/2024-01-28.md",
     "Inbox/필터와 인터셉터.md",
+    "Inbox/2024-01-28.md",
     "conflict-files-obsidian-git.md",
     "lecture/Kim's Java in Practice/Object-Oriented Programming.md",
     "lecture/Kim's Java in Practice/Constructor.md",
