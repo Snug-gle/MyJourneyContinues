@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22eafa5d111a9b64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,9 +169,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "kr-book-info-plugin:Add Book Info": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -170,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ee53acf785031ef",
+  "active": "22eafa5d111a9b64",
   "lastOpenFiles": [
     "Inbox/필터와 인터셉터.md",
     "Inbox/2024-01-28.md",
