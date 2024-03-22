@@ -15,11 +15,23 @@
               "state": {
                 "file": "Inbox/2024-01-28.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8a4ba7d6b46d7bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ee53acf785031ef",
+  "active": "c8a4ba7d6b46d7bf",
   "lastOpenFiles": [
     "Inbox/필터와 인터셉터.md",
     "Inbox/2024-01-28.md",
