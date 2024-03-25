@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "22eafa5d111a9b64",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +167,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22eafa5d111a9b64",
+  "active": "1ee53acf785031ef",
   "lastOpenFiles": [
     "Inbox/필터와 인터셉터.md",
     "Inbox/2024-01-28.md",
