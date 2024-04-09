@@ -162,8 +162,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c1c2e087d5d5744",
+  "active": "5a3264a76026a3e1",
   "lastOpenFiles": [
+    "Playground/ShortTerm",
+    "Playground/LongTerm",
+    "Playground",
     "Inbox/2024-01-28.md",
     "conflict-files-obsidian-git.md",
     "Inbox/필터와 인터셉터.md",
@@ -192,15 +195,12 @@
     "Inbox/JAVA.md",
     "Inbox/JVM and Static.md",
     "Inbox/Developer.md",
-    "Inbox/Inheritance.md",
     "Inbox",
     "Daily Notes",
     "무제 파일.canvas",
     "Spaces/Home/Resource",
     "Spaces/Home/Project",
     "Spaces/Home/Area",
-    "Spaces/Home/Archive",
-    "Spaces/Home/습관",
-    "Spaces/Home"
+    "Spaces/Home/Archive"
   ]
 }
