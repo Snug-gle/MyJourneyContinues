@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Spring 생태계 이해.md",
+                "file": "Inbox/Spring 생태계의 이해.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Spring 생태계 이해.md",
+                "file": "Inbox/Spring 생태계의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Spring 생태계 이해.md",
+                "file": "Inbox/Spring 생태계의 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Spring 생태계 이해.md"
+                "file": "Inbox/Spring 생태계의 이해.md"
               }
             }
           },
@@ -174,7 +174,7 @@
   "active": "5894bdbdf622eddb",
   "lastOpenFiles": [
     "Playground/LongTerm/DateApp/Intro.md",
-    "Inbox/Spring 생태계 이해.md",
+    "Inbox/Spring 생태계의 이해.md",
     "Inbox/Developer.md",
     "Inbox/LANG.md",
     "Inbox/JVM and Static.md",
