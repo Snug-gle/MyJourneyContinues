@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f27e0ca4bfc044e9",
+        "id": "5a52ca2dc59ef573",
         "type": "tabs",
         "children": [
           {
-            "id": "6c1c2e087d5d5744",
+            "id": "5894bdbdf622eddb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Playground/LongTerm/DateApp/Intro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Playground/LongTerm/DateApp/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Playground/LongTerm/DateApp/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Playground/LongTerm/DateApp/Intro.md"
+              }
             }
           },
           {
@@ -164,6 +173,16 @@
   },
   "active": "5a3264a76026a3e1",
   "lastOpenFiles": [
+    "Inbox/Developer.md",
+    "Inbox/LANG.md",
+    "Inbox/JVM and Static.md",
+    "Inbox/Inheritance.md",
+    "Inbox/JAVA.md",
+    "Inbox/무기력 해소하기.md",
+    "Inbox/교착 상태.md",
+    "Playground/LongTerm/DateApp/Intro.md",
+    "Playground/LongTerm/DateApp",
+    "Playground/LongTerm/무제 파일.canvas",
     "Playground/ShortTerm",
     "Playground/LongTerm",
     "Playground",
@@ -182,25 +201,16 @@
     "Spaces/Home/Archive.md",
     "Incorrect answer notes for junior developers/Network.md",
     "Inbox/회피 알고리즘.md",
-    "Inbox/무기력 해소하기.md",
     "Inbox/무제 파일.canvas",
-    "Inbox/교착 상태.md",
     "Inbox/멘탈모델.md",
     "Inbox/To do.md",
     "Inbox/Polymorphism.md",
     "Inbox/Programming.md",
     "Inbox/Package.md",
-    "Inbox/Null.md",
-    "Inbox/LANG.md",
-    "Inbox/JAVA.md",
-    "Inbox/JVM and Static.md",
-    "Inbox/Developer.md",
     "Inbox",
     "Daily Notes",
     "무제 파일.canvas",
     "Spaces/Home/Resource",
-    "Spaces/Home/Project",
-    "Spaces/Home/Area",
-    "Spaces/Home/Archive"
+    "Spaces/Home/Project"
   ]
 }
