@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playground/LongTerm/DateApp/Intro.md",
+                "file": "Inbox/Spring 생태계 이해.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playground/LongTerm/DateApp/Intro.md",
+                "file": "Inbox/Spring 생태계 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playground/LongTerm/DateApp/Intro.md",
+                "file": "Inbox/Spring 생태계 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playground/LongTerm/DateApp/Intro.md"
+                "file": "Inbox/Spring 생태계 이해.md"
               }
             }
           },
@@ -171,8 +171,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a3264a76026a3e1",
+  "active": "5894bdbdf622eddb",
   "lastOpenFiles": [
+    "Playground/LongTerm/DateApp/Intro.md",
+    "Inbox/Spring 생태계 이해.md",
     "Inbox/Developer.md",
     "Inbox/LANG.md",
     "Inbox/JVM and Static.md",
@@ -180,7 +182,6 @@
     "Inbox/JAVA.md",
     "Inbox/무기력 해소하기.md",
     "Inbox/교착 상태.md",
-    "Playground/LongTerm/DateApp/Intro.md",
     "Playground/LongTerm/DateApp",
     "Playground/LongTerm/무제 파일.canvas",
     "Playground/ShortTerm",
@@ -206,7 +207,6 @@
     "Inbox/To do.md",
     "Inbox/Polymorphism.md",
     "Inbox/Programming.md",
-    "Inbox/Package.md",
     "Inbox",
     "Daily Notes",
     "무제 파일.canvas",
