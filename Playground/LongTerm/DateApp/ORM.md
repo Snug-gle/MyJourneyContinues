@@ -5,4 +5,15 @@
 	- 객체에 Mappring 하는 코드도 수정해야 함
 - ORM 이란?
 	- Object-Relational Mapping
-	- 객체와 관
+	- 객체와 관계형 DB를 Mapping 해주는 기술 (ORM - Framework)
+	- ORM을 이용하면 SQL을 이용해서 DB에 데이터를 저장하는 것이 아니라 자바 객체 자체를 Collection에 저장하듯 사용할 수 있음
+	- ORM은 기술이고, 실제로 구현한 것은 ORM Framework라고 함
+	- Java 진영에서는 Hibernate라는 ORM Framework를 가장 많이 사용
+- ORM의 장점
+	- SQL을 직접 코드에 사용하지 않아도 된다
+	- 재사용성이 증가한다
+	- 유지보수 편리
+	- 코드 가독성이 증가
+	- DBMS에 대한 종속성이 낮아짐 (ORM 프레임워크를 사용(설정)하기 때문)
+- JPA와 ORM의 차이
+	- 
