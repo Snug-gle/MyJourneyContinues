@@ -25,4 +25,9 @@
 - JPA와 ORM의 차이
 	- ORM은 객체와 관계형 데이터베이스를 Mapping 하는 기술 (기술)
 	- JPA는 Java 진영에서 사용하는 ORM Specification (규격)
-	- 즉, ORM은 기술이고, JPA
+	- 즉, ORM은 기술이고, JPA는 그 기술을 위한 규격을 모아둔 것
+- MyBatis 란?
+	- SQL Mapper
+	- 객체와 (단순한)SQL을 Mapping 하는 것
+	- 쿼리와 연결을 쉽게 할 뿐 SQL 작성을 대신할 순 없다.
+- 
