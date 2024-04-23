@@ -1,0 +1,8 @@
+- ORM 이전 방식
+	- DB에서 데이터를 읽어오려면, SQL을 이용해야
+	- 읽어온 데이터를 객체에 Mapping 해야함
+	- 요구사항이 변경되면 코드에 존재하는 SQL을 변경해야 
+	- 객체에 Mappring 하는 코드도 수정해야 함
+- ORM 이란?
+	- Object-Relational Mapping
+	- 객체와 관

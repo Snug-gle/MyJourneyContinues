@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/소프트웨어의 Versioning 방식과 중요성.md",
+                "file": "Playground/LongTerm/DateApp/소프트웨어의 Versioning 방식과 중요성.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee8a993f3eb28d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playground/LongTerm/DateApp/ORM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/소프트웨어의 Versioning 방식과 중요성.md",
+                "file": "Playground/LongTerm/DateApp/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/소프트웨어의 Versioning 방식과 중요성.md",
+                "file": "Playground/LongTerm/DateApp/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/소프트웨어의 Versioning 방식과 중요성.md"
+                "file": "Playground/LongTerm/DateApp/ORM.md"
               }
             }
           },
@@ -171,11 +185,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5894bdbdf622eddb",
+  "active": "aee8a993f3eb28d9",
   "lastOpenFiles": [
     "Playground/LongTerm/DateApp/Intro.md",
-    "Inbox/소프트웨어의 Versioning 방식과 중요성.md",
-    "Inbox/Spring 생태계의 이해.md",
+    "Playground/LongTerm/DateApp/Spring 생태계의 이해.md",
+    "Playground/LongTerm/DateApp/ORM.md",
+    "Playground/LongTerm/DateApp/소프트웨어의 Versioning 방식과 중요성.md",
     "Inbox/Developer.md",
     "Inbox/LANG.md",
     "Inbox/JVM and Static.md",
@@ -206,7 +221,6 @@
     "Inbox/무제 파일.canvas",
     "Inbox/멘탈모델.md",
     "Inbox/To do.md",
-    "Inbox/Polymorphism.md",
     "Inbox",
     "Daily Notes",
     "무제 파일.canvas",
