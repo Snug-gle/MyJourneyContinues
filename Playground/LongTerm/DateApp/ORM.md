@@ -15,5 +15,14 @@
 	- 유지보수 편리
 	- 코드 가독성이 증가
 	- DBMS에 대한 종속성이 낮아짐 (ORM 프레임워크를 사용(설정)하기 때문)
+- JPA란?
+	- Java Persistance API
+	- JAVA 진영의 ORM 기술 표준
+	- 표준이기 때문에 구현체는 따로 존재함
+	- 대표적 구현체가 Hibernate
+	- Spring 에서도 Hibernate를 사용한다
+	- 다만 Spring 에서는 Spring Data JPA를 이용해 더 쉬운 사용을 제공함
 - JPA와 ORM의 차이
-	- 
+	- ORM은 객체와 관계형 데이터베이스를 Mapping 하는 기술 (기술)
+	- JPA는 Java 진영에서 사용하는 ORM Specification (규격)
+	- 즉, ORM은 기술이고, JPA
