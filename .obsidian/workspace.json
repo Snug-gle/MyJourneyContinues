@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playground/LongTerm/DateApp/ORM.md",
+                "file": "Inbox/Spring Data JPA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playground/LongTerm/DateApp/ORM.md",
+                "file": "Inbox/Spring Data JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playground/LongTerm/DateApp/ORM.md",
+                "file": "Inbox/Spring Data JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playground/LongTerm/DateApp/ORM.md"
+                "file": "Inbox/Spring Data JPA.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   "active": "aee8a993f3eb28d9",
   "lastOpenFiles": [
     "Playground/LongTerm/DateApp/Intro.md",
-    "Playground/LongTerm/DateApp/Spring 생태계의 이해.md",
+    "Inbox/Spring Data JPA.md",
     "Playground/LongTerm/DateApp/ORM.md",
+    "Playground/LongTerm/DateApp/Spring 생태계의 이해.md",
     "Playground/LongTerm/DateApp/소프트웨어의 Versioning 방식과 중요성.md",
     "Inbox/Developer.md",
     "Inbox/LANG.md",
@@ -220,7 +221,6 @@
     "Inbox/회피 알고리즘.md",
     "Inbox/무제 파일.canvas",
     "Inbox/멘탈모델.md",
-    "Inbox/To do.md",
     "Inbox",
     "Daily Notes",
     "무제 파일.canvas",
