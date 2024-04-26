@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cd3cf9cdc325bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Bean 이란?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Spring Data JPA.md",
+                "file": "Inbox/Bean 이란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Spring Data JPA.md",
+                "file": "Inbox/Bean 이란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Spring Data JPA.md"
+                "file": "Inbox/Bean 이란?.md"
               }
             }
           },
@@ -185,10 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aee8a993f3eb28d9",
+  "active": "3cd3cf9cdc325bea",
   "lastOpenFiles": [
-    "Playground/LongTerm/DateApp/Intro.md",
     "Inbox/Spring Data JPA.md",
+    "Inbox/Bean 이란?.md",
+    "Playground/LongTerm/DateApp/Intro.md",
     "Playground/LongTerm/DateApp/ORM.md",
     "Playground/LongTerm/DateApp/Spring 생태계의 이해.md",
     "Playground/LongTerm/DateApp/소프트웨어의 Versioning 방식과 중요성.md",
@@ -220,7 +234,6 @@
     "Incorrect answer notes for junior developers/Network.md",
     "Inbox/회피 알고리즘.md",
     "Inbox/무제 파일.canvas",
-    "Inbox/멘탈모델.md",
     "Inbox",
     "Daily Notes",
     "무제 파일.canvas",

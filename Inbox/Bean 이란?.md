@@ -1,0 +1,2 @@
+- Bean은 Spring Container에서 관리하는 Singleton Instance(유일한 객체)임
+- 왜 등장? ->  Spring은 성능을 위해 요청을 핸들링하기 위해 사용되는 Instance들을 Bean이란 형태로 관리
