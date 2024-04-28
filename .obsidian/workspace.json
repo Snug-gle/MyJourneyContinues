@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/mapping.md",
+                "file": "Daily Notes/2024-04-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/mapping.md",
+                "file": "Daily Notes/2024-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/mapping.md",
+                "file": "Daily Notes/2024-04-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/mapping.md"
+                "file": "Daily Notes/2024-04-28.md"
               }
             }
           },
@@ -213,8 +213,10 @@
   },
   "active": "1ebcb9b11200513f",
   "lastOpenFiles": [
-    "Inbox/Bean 이란?.md",
+    "Inbox/무제 파일.md",
+    "Daily Notes/2024-04-28.md",
     "Inbox/mapping.md",
+    "Inbox/Bean 이란?.md",
     "Inbox/Spring Data JPA.md",
     "Playground/LongTerm/DateApp/Intro.md",
     "Playground/LongTerm/DateApp/ORM.md",
@@ -244,8 +246,6 @@
     "Spaces/Home/Resource.md",
     "Spaces/Home/Project.md",
     "Spaces/Home/Area.md",
-    "Spaces/Home/Archive.md",
-    "Incorrect answer notes for junior developers/Network.md",
     "Inbox/무제 파일.canvas",
     "Inbox",
     "Daily Notes",
