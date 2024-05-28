@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-28.md",
+                "file": "Daily Notes/강의 - 테스트 코드 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-28.md",
+                "file": "Daily Notes/강의 - 테스트 코드 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-28.md",
+                "file": "Daily Notes/강의 - 테스트 코드 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-28.md"
+                "file": "Daily Notes/강의 - 테스트 코드 만들기.md"
               }
             }
           },
@@ -213,8 +213,9 @@
   },
   "active": "1ebcb9b11200513f",
   "lastOpenFiles": [
-    "Inbox/무제 파일.md",
     "Daily Notes/2024-04-28.md",
+    "Daily Notes/강의 - 테스트 코드 만들기.md",
+    "Inbox/무제 파일.md",
     "Inbox/mapping.md",
     "Inbox/Bean 이란?.md",
     "Inbox/Spring Data JPA.md",
@@ -245,7 +246,6 @@
     "Templates",
     "Spaces/Home/Resource.md",
     "Spaces/Home/Project.md",
-    "Spaces/Home/Area.md",
     "Inbox/무제 파일.canvas",
     "Inbox",
     "Daily Notes",
