@@ -11,8 +11,13 @@
             "id": "e56ca4d5613703ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/한화갤러리아.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/한화갤러리아.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/한화갤러리아.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/한화갤러리아.md"
+              }
             }
           },
           {
@@ -164,12 +173,12 @@
   },
   "active": "e56ca4d5613703ef",
   "lastOpenFiles": [
+    "Inbox/한화갤러리아.md",
     "Daily Notes/강의 - 테스트 코드 만들기.md",
     "Playground/LongTerm/DateApp/소프트웨어의 Versioning 방식과 중요성.md",
     "Inbox/Spring Data JPA.md",
     "Inbox/Bean 이란?.md",
     "Daily Notes/2024-04-28.md",
-    "Inbox/무제 파일.md",
     "Inbox/mapping.md",
     "Playground/LongTerm/DateApp/Intro.md",
     "Playground/LongTerm/DateApp/ORM.md",
