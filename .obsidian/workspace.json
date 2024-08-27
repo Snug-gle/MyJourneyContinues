@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d73347bd36637eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/고급 최적화.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/옵티마이저와 힌트.md",
+                "file": "Inbox/고급 최적화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/옵티마이저와 힌트.md",
+                "file": "Inbox/고급 최적화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/옵티마이저와 힌트.md"
+                "file": "Inbox/고급 최적화.md"
               }
             }
           },
@@ -185,10 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd9b8ca7d9b8a17e",
+  "active": "d73347bd36637eb1",
   "lastOpenFiles": [
-    "Inbox/한화갤러리아.md",
     "Inbox/옵티마이저와 힌트.md",
+    "Inbox/고급 최적화.md",
+    "Inbox/한화갤러리아.md",
     "Inbox/RealMySQL 8.0.md",
     "Daily Notes/강의 - 테스트 코드 만들기.md",
     "Playground/LongTerm/DateApp/소프트웨어의 Versioning 방식과 중요성.md",
@@ -218,7 +232,6 @@
     "lecture/Kim's Java in Practice/Constructor.md",
     "lecture/Kim's Java in Practice/Class and Data.md",
     "lecture/Kim's Java in Practice",
-    "Templates/템플릿.md",
     "Templates",
     "Inbox/무제 파일.canvas",
     "Inbox",
