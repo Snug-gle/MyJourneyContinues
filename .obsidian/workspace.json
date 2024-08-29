@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/고급 최적화.md",
+                "file": "Daily Notes/2024-08-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/고급 최적화.md",
+                "file": "Daily Notes/2024-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/고급 최적화.md",
+                "file": "Daily Notes/2024-08-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/고급 최적화.md"
+                "file": "Daily Notes/2024-08-29.md"
               }
             }
           },
@@ -200,8 +200,9 @@
   },
   "active": "d73347bd36637eb1",
   "lastOpenFiles": [
-    "Inbox/옵티마이저와 힌트.md",
     "Inbox/고급 최적화.md",
+    "Daily Notes/2024-08-29.md",
+    "Inbox/옵티마이저와 힌트.md",
     "Inbox/한화갤러리아.md",
     "Inbox/RealMySQL 8.0.md",
     "Daily Notes/강의 - 테스트 코드 만들기.md",
@@ -230,7 +231,6 @@
     "Inbox/필터와 인터셉터.md",
     "lecture/Kim's Java in Practice/Object-Oriented Programming.md",
     "lecture/Kim's Java in Practice/Constructor.md",
-    "lecture/Kim's Java in Practice/Class and Data.md",
     "lecture/Kim's Java in Practice",
     "Templates",
     "Inbox/무제 파일.canvas",
