@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playground/LongTerm/프로젝트1.md",
+                "file": "Playground/LongTerm/프로젝트e.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playground/LongTerm/프로젝트1.md",
+                "file": "Playground/LongTerm/프로젝트e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playground/LongTerm/프로젝트1.md",
+                "file": "Playground/LongTerm/프로젝트e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playground/LongTerm/프로젝트1.md"
+                "file": "Playground/LongTerm/프로젝트e.md"
               }
             }
           },
@@ -201,7 +201,7 @@
   "active": "d73347bd36637eb1",
   "lastOpenFiles": [
     "Daily Notes/2024-08-29.md",
-    "Playground/LongTerm/프로젝트1.md",
+    "Playground/LongTerm/프로젝트e.md",
     "Inbox/고급 최적화.md",
     "Inbox/옵티마이저와 힌트.md",
     "Inbox/한화갤러리아.md",
