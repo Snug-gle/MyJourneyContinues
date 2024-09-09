@@ -4,7 +4,7 @@
 	- 주요 엔티티: `TennisCourt`, `Reservation`, `Schedule`
 	- 주요 기능: 예약 확인, 예약 변경, 예약 취소
 - **중고 직거래 서비스 도메인**: RallyPoint-Market`
-	- 주요 엔티티: `Product`, `Transaction`, `Seller`, `Buyer`
+	- 주요 엔티티: `Product`, `Transaction`, `Se
 	- 주요 기능: 상품 등록, 상품 조회, 거래 진행, 거래 이력 관리
 - **매칭 서비스 도메인**: RallyPoint-Match`
 	- 주요 엔티티: `Match`, `Player`, `GameType` (단식, 복식)
