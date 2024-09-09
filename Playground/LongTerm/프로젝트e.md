@@ -5,23 +5,19 @@
 	- 예약 - 경기장(지역별)
 	- ### 도메인 네이밍
 
-1. **테니스장 예약 도메인**: `CourtReservation`
-    
-    - 주요 엔티티: `TennisCourt`, `Reservation`, `User`, `Schedule`
-    - 주요 기능: 예약 확인, 예약 변경, 예약 취소
-2. **중고 직거래 서비스 도메인**: `Marketplace`
-    
-    - 주요 엔티티: `Product`, `Transaction`, `Seller`, `Buyer`
-    - 주요 기능: 상품 등록, 상품 조회, 거래 진행, 거래 이력 관리
-3. **매칭 서비스 도메인**: `Matchmaking`
-    
-    - 주요 엔티티: `Match`, `Player`, `GameType` (단식, 복식)
-    - 주요 기능: 플레이어 매칭, 경기 유형 선택, 매칭 결과 저장
-- ### 도메인 네이밍
-
-- **회원 관리 도메인**: `UserManagement`
-    - 주요 엔티티: `User`, `Role`, `Authority`
-    - 주요 기능: 사용자 등록, 로그인, 권한 관리, 사용자 정보 수정
+	1. **테니스장 예약 도메인**: `CourtBookingService
+	    - 주요 엔티티: `TennisCourt`, `Reservation`, `Schedule`
+	    - 주요 기능: 예약 확인, 예약 변경, 예약 취소
+	2. **중고 직거래 서비스 도메인**: `MarketplaceService`
+	    - 주요 엔티티: `Product`, `Transaction`, `Seller`, `Buyer`
+	    - 주요 기능: 상품 등록, 상품 조회, 거래 진행, 거래 이력 관리
+	3. **매칭 서비스 도메인**: `MatchmakingService`
+	    - 주요 엔티티: `Match`, `Player`, `GameType` (단식, 복식)
+	    - 주요 기능: 플레이어 매칭, 경기 유형 선택, 매칭 결과 저장
+	
+	4. **회원 관리 도메인**: `UserManagingService
+	    - 주요 엔티티: `User`, `Role`, `Authority`
+	    - 주요 기능: 사용자 등록, 로그인, 권한 관리, 사용자 정보 수정
 
 ### 엔티티 및 권한 설명
 
