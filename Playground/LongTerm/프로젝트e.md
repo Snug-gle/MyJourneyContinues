@@ -1,31 +1,20 @@
-1. 도메인
-	- 회원 - 로그인, 권한(관리자, 회원)
-	- 장터 - 중고직거래 
-	- 매칭 - 단식, 복식
-	- 예약 - 경기장(지역별)
-	- ### 도메인 네이밍
-
-	1. **테니스장 예약 도메인**: `CourtBookingService
+### 1. 도메인
+	1. **테니스장 예약 도메인**: `RallyPoint-Court
 	    - 주요 엔티티: `TennisCourt`, `Reservation`, `Schedule`
 	    - 주요 기능: 예약 확인, 예약 변경, 예약 취소
-	2. **중고 직거래 서비스 도메인**: `MarketplaceService`
+	2. **중고 직거래 서비스 도메인**: RallyPoint-Market`
 	    - 주요 엔티티: `Product`, `Transaction`, `Seller`, `Buyer`
 	    - 주요 기능: 상품 등록, 상품 조회, 거래 진행, 거래 이력 관리
-	3. **매칭 서비스 도메인**: `MatchmakingService`
+	3. **매칭 서비스 도메인**: RallyPoint-Match`
 	    - 주요 엔티티: `Match`, `Player`, `GameType` (단식, 복식)
 	    - 주요 기능: 플레이어 매칭, 경기 유형 선택, 매칭 결과 저장
-	
-	4. **회원 관리 도메인**: `UserManagingService
+	4. **회원 관리 도메인**: RallyPoint-User
 	    - 주요 엔티티: `User`, `Role`, `Authority`
 	    - 주요 기능: 사용자 등록, 로그인, 권한 관리, 사용자 정보 수정
+	    - 기타: admin, member, guest
 
-### 엔티티 및 권한 설명
-
-- **`User`**: 모든 서비스에 걸쳐 공통적으로 사용되는 사용자 정보를 담는 엔티티입니다. 이 엔티티는 사용자의 기본 정보(이름, 이메일, 연락처 등)를 포함합니다.
-- **`Role`**: 사용자의 역할을 정의합니다. 예를 들어, `Admin`, `Member`, `Guest` 등의 역할이 있을 수 있습니다. 각 역할에 따라 사용자의 접근 권한이 달라집니다.
-- **`Authority`**: 각 역할에 부여된 권한을 정의합니다. 예를 들어, `Create`, `Read`, `Update`, `Delete` (CRUD) 권한을 각 역할에 맞게 부여할 수 있습니다.
-
-### 데이터베이스 선택
+### 2. stack
+데이터베이스 선택
 
 - **테니스장 예약 도메인 (`CourtReservation`)**:
     
