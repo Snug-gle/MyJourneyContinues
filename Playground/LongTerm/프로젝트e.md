@@ -1,4 +1,8 @@
-### 1. 도메인
+### 1.  프로젝트 소개
+- 테니스 코트 예약 애플리케이션
+- 예약과 함께 필요시 매칭도 진행한다. 
+
+### 2. 도메인
 
 - **테니스장 예약 도메인**: `RallyPoint-Court
 	- 주요 엔티티: `TennisCourt`, `Reservation`, `Schedule`
@@ -14,7 +18,7 @@
 	- 주요 기능: 사용자 등록, 로그인, 권한 관리, 사용자 정보 수정
 	- 기타: admin, member, guest
 
-### 2. stack
+### 3. stack
 - MSA 아키텍쳐 
 - Spring boot
 - java 21, cotlin
