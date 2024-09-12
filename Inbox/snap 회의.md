@@ -19,5 +19,6 @@
 			1. messageCheckService(snap), same-phone-delay-...
 			2. snap.. 파일 큐(c라이브러리) 1번(클린), 2번(더티)인 케이스가 있어
 			3. 그 때 앞 순번에 클린이 있으면  클린이 먼저 나와
-			4. 스냅은 동보 기능 때문에 getList를 사용해야 함
-			5. R
+			4. 스냅은 동보 기능 때문에 getList를 사용해야 함.. PersistenceTargetQue
+			5. 허브는 프로젝트 단위로 중복체크 함
+			6. 더티 상태에서 죽었을 시 더티 건을 읽음 그래서 문제가 없는 듯
