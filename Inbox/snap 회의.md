@@ -15,4 +15,4 @@
 		4. target - DBInsertModule --> @SnapInterfacerModule 애너테이션 사용 가능
 		5. context 분리 필요 느낀 이유 -> restAPI, EAI, File등 사용 케이스 마다 다름
 		6. sourceQueue, targetQue는 하나로 구성해도 되지만 역할이나 성능등의 이유가 있고 더티 상태 유지를 위해 사용
-		7. 
+		7. 병렬 타겟 DB insertmessageCheckService(snap), same-phone-delay-
