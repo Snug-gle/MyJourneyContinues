@@ -15,10 +15,14 @@
 		4. target - DBInsertModule --> @SnapInterfacerModule 애너테이션 사용 가능
 		5. context 분리 필요 느낀 이유 -> restAPI, EAI, File등 사용 케이스 마다 다름
 		6. sourceQueue, targetQue는 하나로 구성해도 되지만 역할이나 성능등의 이유가 있고 더티 상태 유지를 위해 사용
-		7. 병렬 타겟 DB insert 구조로 순서 보장에 대한 이슈 제기
+		7. H2는 현재 디스크모드로  파일로 나오기에 조회가 가능함
+		8. 병렬 타겟 DB insert 구조로 순서 보장에 대한 이슈 제기
 			1. messageCheckService(snap), same-phone-delay-...
 			2. snap.. 파일 큐(c라이브러리) 1번(클린), 2번(더티)인 케이스가 있어
 			3. 그 때 앞 순번에 클린이 있으면  클린이 먼저 나와
 			4. 스냅은 동보 기능 때문에 getList를 사용해야 함.. PersistenceTargetQue
 			5. 허브는 프로젝트 단위로 중복체크 함
 			6. 더티 상태에서 죽었을 시 더티 건을 읽음 그래서 문제가 없는 듯
+			7. 동보 발송 중 실패하면... 모두 rollback 되야 하는데...
+		9. core
+			1. source - restapi
