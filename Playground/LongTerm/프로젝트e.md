@@ -16,7 +16,8 @@
 - **회원 관리 도메인**: RallyPoint-User
 	- 주요 엔티티: `User`, `Role`, `Authority`
 	- 주요 기능: 사용자 등록, 로그인, 권한 관리, 사용자 정보 수정
-	- 기타: admin, member, guest
+	- 기타: admin, member,
+- 공지사항
 
 ### 3. stack
 - MSA 아키텍쳐 

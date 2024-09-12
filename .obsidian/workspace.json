@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b393c4854a0c81b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/snap 회의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/snap 회의.md",
+                "file": "Playground/LongTerm/프로젝트e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/snap 회의.md",
+                "file": "Playground/LongTerm/프로젝트e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/snap 회의.md"
+                "file": "Playground/LongTerm/프로젝트e.md"
               }
             }
           },
@@ -211,10 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b393c4854a0c81b",
+  "active": "d73347bd36637eb1",
   "lastOpenFiles": [
-    "Playground/LongTerm/프로젝트e.md",
     "Inbox/snap 회의.md",
+    "Playground/LongTerm/프로젝트e.md",
     "Daily Notes/2024-08-29.md",
     "Inbox/고급 최적화.md",
     "Inbox/옵티마이저와 힌트.md",
