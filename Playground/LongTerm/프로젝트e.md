@@ -25,4 +25,7 @@
 - java 21, cotlin
 - open feign
 - webflux
+
+### 4. init 정보
+- gradle - kotlin
 - 
