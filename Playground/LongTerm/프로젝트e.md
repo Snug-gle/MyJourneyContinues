@@ -28,4 +28,6 @@
 
 ### 4. init 정보
 - gradle - kotlin
-- 
+
+### 5. 개발 약속
+- 요구사항 -> issue -> branch 생성
