@@ -7,13 +7,13 @@
 		name: 'App',
 		data() {
 			return {
-				누른거 : 0,
-				원룸들 : data,
-				모달창열렸니 : false,
-				}
-				},
-	components: {
-		ProductModal : ProductModal,
+					누른거 : 0,
+					원룸들 : data,
+					모달창열렸니 : false,
+			}
+		},
+		components: {
+			ProductModal : ProductModal,
 	},
 	</script>
 	```
