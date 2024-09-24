@@ -18,3 +18,5 @@ $event: 부모에게 데이터를 보낼 때 사용
 ``` vue
 <product-card @openModal="모달창열렸니 = true; 누른거 = $event" :원룸="원룸들[i]" v-for="(작명, i) in 원룸들" :key="작명"/>
 ```
+
+3. script - method를 통해 
