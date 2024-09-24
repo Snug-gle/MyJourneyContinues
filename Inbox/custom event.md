@@ -7,7 +7,7 @@ $event: 부모에게 데이터를 보낼 때 사용
 <template>
 	<div>
 		<img :src="원룸.image" class="room-img">
-		<h4 @click="$emit('openModal', 원룸.id)>{{ 원룸.title }}</h4>
+		<h4 @click="$emit('openModal', 원룸.id)">{{ 원룸.title }}</h4>
 		<p>{{ 원룸.price }} 원</p>
 </div>
 </template>
@@ -19,4 +19,26 @@ $event: 부모에게 데이터를 보낼 때 사용
 <product-card @openModal="모달창열렸니 = true; 누른거 = $event" :원룸="원룸들[i]" v-for="(작명, i) in 원룸들" :key="작명"/>
 ```
 
-3. script - method를 통해 
+3. script - method를 통해 정리 가능
+	- props든, data든, $변수든 밑에서 사용할 땐 this를 붙임
+``` vue
+<template>
+	<div>
+		<img :src="원룸.image" class="room-img">
+		<h4 @click="함수">{{ 원룸.title }}</h4>
+		<p>{{ 원룸.price }} 원</p>
+	</div>
+</template>
+<script>
+export default {
+	props :{
+		원룸 : Object,
+	},
+	methods : {
+		함수명() {
+			this.$emit('openModal', this.원룸.id)
+		}
+	}
+}
+</script>
+```
