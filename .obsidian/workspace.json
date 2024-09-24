@@ -65,6 +65,45 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Daily Notes/vue.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd4fae1ef237930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/props.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d478f52d08e8e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/vue.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7439d3ab952f733b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Inbox/custom event.md",
                 "mode": "source",
                 "backlinks": true,
@@ -73,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -225,11 +264,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f09d71ca82c660ee",
+  "active": "7439d3ab952f733b",
   "lastOpenFiles": [
     "Daily Notes/vue.md",
-    "Inbox/custom event.md",
     "Inbox/props.md",
+    "Inbox/custom event.md",
     "Inbox/옵티마이저와 힌트.md",
     "무제 파일.canvas",
     "Playground/LongTerm/프로젝트e.md",
