@@ -25,7 +25,7 @@ $event: 부모에게 데이터를 보낼 때 사용
 <template>
 	<div>
 		<img :src="원룸.image" class="room-img">
-		<h4 @click="함수">{{ 원룸.title }}</h4>
+		<h4 @click="모달창열기">{{ 원룸.title }}</h4>
 		<p>{{ 원룸.price }} 원</p>
 	</div>
 </template>
@@ -35,7 +35,7 @@ export default {
 		원룸 : Object,
 	},
 	methods : {
-		함수명() {
+		모달창열기() {
 			this.$emit('openModal', this.원룸.id)
 		}
 	}
