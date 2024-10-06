@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/10월/2024-10-06.md",
+                "file": "Inbox/고급 최적화.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ecf625c5e109aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/실행계획.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024/10월/2024-10-06.md",
+                "file": "Inbox/실행계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024/10월/2024-10-06.md",
+                "file": "Inbox/실행계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024/10월/2024-10-06.md"
+                "file": "Inbox/실행계획.md"
               }
             }
           },
@@ -171,13 +186,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "acd4fae1ef237930",
+  "active": "8ecf625c5e109aa5",
   "lastOpenFiles": [
+    "Inbox/RealMySQL 8.0.md",
+    "Inbox/실행계획.md",
+    "Inbox/고급 최적화.md",
+    "Daily Notes/2024/10월/2024-10-06.md",
     "Inbox/props.md",
     "Daily Notes/2024-04-28.md",
     "Daily Notes/2024-08-29.md",
     "Daily Notes/2024-02-18.md",
-    "Daily Notes/2024/10월/2024-10-06.md",
     "Daily Notes/2024/10월",
     "Daily Notes/2024",
     "Inbox/무제 파일.md",
@@ -187,9 +205,7 @@
     "무제 파일.canvas",
     "Playground/LongTerm/프로젝트e.md",
     "Inbox/snap 회의.md",
-    "Inbox/고급 최적화.md",
     "Inbox/한화갤러리아.md",
-    "Inbox/RealMySQL 8.0.md",
     "Daily Notes/강의 - 테스트 코드 만들기.md",
     "Playground/LongTerm/DateApp/소프트웨어의 Versioning 방식과 중요성.md",
     "Inbox/Spring Data JPA.md",
@@ -201,7 +217,6 @@
     "Inbox/Developer.md",
     "Inbox/LANG.md",
     "Inbox/JVM and Static.md",
-    "Inbox/Inheritance.md",
     "Playground/LongTerm/DateApp",
     "Playground/LongTerm/무제 파일.canvas",
     "Playground/ShortTerm",
