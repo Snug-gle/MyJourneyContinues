@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/vue.md",
+                "file": "Daily Notes/2024/10월/2024-10-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/watcher로 데이터 감시하는 법.md",
+                "file": "Inbox/사용자의 input을 받는 법(v-model).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/watcher로 데이터 감시하는 법.md",
+                "file": "Inbox/사용자의 input을 받는 법(v-model).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/watcher로 데이터 감시하는 법.md",
+                "file": "Inbox/사용자의 input을 받는 법(v-model).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/watcher로 데이터 감시하는 법.md"
+                "file": "Inbox/사용자의 input을 받는 법(v-model).md"
               }
             }
           },
@@ -187,11 +187,12 @@
   },
   "active": "53812453f57e6c0a",
   "lastOpenFiles": [
-    "Inbox/사용자의 input을 받는 법(v-model).md",
-    "Daily Notes/vue.md",
     "Daily Notes/watcher로 데이터 감시하는 법.md",
-    "Daily Notes/2024-10-07.md",
     "Daily Notes/2024/10월/2024-10-06.md",
+    "Daily Notes/2024-10-07.md",
+    "Inbox/custom event.md",
+    "Daily Notes/vue.md",
+    "Inbox/사용자의 input을 받는 법(v-model).md",
     "Inbox/고급 최적화.md",
     "Inbox/RealMySQL 8.0.md",
     "Inbox/실행계획.md",
@@ -202,7 +203,6 @@
     "Daily Notes/2024/10월",
     "Daily Notes/2024",
     "Inbox/무제 파일.md",
-    "Inbox/custom event.md",
     "Inbox/옵티마이저와 힌트.md",
     "무제 파일.canvas",
     "Playground/LongTerm/프로젝트e.md",
