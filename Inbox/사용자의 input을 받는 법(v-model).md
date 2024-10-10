@@ -8,6 +8,7 @@
 		<p>{{ 원룸.content }}</p>
 		<input @input="month = $event.target.value">
 		-> <input v-model="month">
+		-> <input type="range" min="1" max="12">
 		<p> {{ month }}개월 선택함 : {{ 원룸.price * month }} 원</p>
 		<button @click="closeProductModal">닫기</button>
 	</div>
