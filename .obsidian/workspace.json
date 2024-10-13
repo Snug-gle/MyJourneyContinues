@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/사용자의 input을 받는 법(v-model).md",
+                "file": "Inbox/RealMySQL 8.0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/사용자의 input을 받는 법(v-model).md",
+                "file": "Inbox/RealMySQL 8.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/사용자의 input을 받는 법(v-model).md",
+                "file": "Inbox/RealMySQL 8.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/사용자의 input을 받는 법(v-model).md"
+                "file": "Inbox/RealMySQL 8.0.md"
               }
             }
           },
@@ -173,9 +173,9 @@
   },
   "active": "53812453f57e6c0a",
   "lastOpenFiles": [
+    "Inbox/사용자의 input을 받는 법(v-model).md",
     "Daily Notes/vue.md",
     "Daily Notes/watcher로 데이터 감시하는 법.md",
-    "Inbox/사용자의 input을 받는 법(v-model).md",
     "Daily Notes/2024/10월/2024-10-06.md",
     "Daily Notes/2024-10-07.md",
     "Inbox/custom event.md",
