@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eedb4b19f26e515e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-10-20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/RealMySQL 8.0.md",
+                "file": "Daily Notes/2024-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/RealMySQL 8.0.md",
+                "file": "Daily Notes/2024-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/RealMySQL 8.0.md"
+                "file": "Daily Notes/2024-10-20.md"
               }
             }
           },
@@ -171,8 +185,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53812453f57e6c0a",
+  "active": "eedb4b19f26e515e",
   "lastOpenFiles": [
+    "Inbox/실행계획.md",
+    "Daily Notes/2024-10-20.md",
+    "Inbox/무제 파일.md",
+    "Inbox/RealMySQL 8.0.md",
     "Inbox/사용자의 input을 받는 법(v-model).md",
     "Daily Notes/vue.md",
     "Daily Notes/watcher로 데이터 감시하는 법.md",
@@ -180,15 +198,12 @@
     "Daily Notes/2024-10-07.md",
     "Inbox/custom event.md",
     "Inbox/고급 최적화.md",
-    "Inbox/RealMySQL 8.0.md",
-    "Inbox/실행계획.md",
     "Inbox/props.md",
     "Daily Notes/2024-04-28.md",
     "Daily Notes/2024-08-29.md",
     "Daily Notes/2024-02-18.md",
     "Daily Notes/2024/10월",
     "Daily Notes/2024",
-    "Inbox/무제 파일.md",
     "Inbox/옵티마이저와 힌트.md",
     "무제 파일.canvas",
     "Playground/LongTerm/프로젝트e.md",
@@ -201,7 +216,6 @@
     "Inbox/mapping.md",
     "Playground/LongTerm/DateApp/Intro.md",
     "Playground/LongTerm/DateApp/ORM.md",
-    "Playground/LongTerm/DateApp/Spring 생태계의 이해.md",
     "Playground/LongTerm/DateApp",
     "Playground/LongTerm/무제 파일.canvas",
     "Playground/ShortTerm",
