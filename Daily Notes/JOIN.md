@@ -15,7 +15,15 @@ tags:
 - CROSS JOIN (Or 카테시안 조인)
 #### 테이블을 연결하기 위한 기술로 UNION / UNION ALL도 있음
 - 조인은 두 테이블을 좌우로 연결
-- 반면에 UNION / UNION ALL은 두 테이블으
+- 반면에 UNION / UNION ALL은 두 테이블을 상하로 연결
+#### 기초 문법
+``` sql
+SELECT 컬럼
+FROM 테이블1 별칭1
+	INNER JOIN 테이블2 별칭2 ON 별칭1.컬럼 = 별칭2.컬럼
+WHERE 각 테이블의 필터 조건
+```
+### INNER JOIN 이해하기
 
 
 
