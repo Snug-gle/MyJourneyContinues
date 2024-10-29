@@ -10,8 +10,12 @@ tags:
 ## 2. INNER JOIN
 ### JOIN
 #### 조인의종류
-- Inner JOIN
-
+- INNER JOIN(흔히 불리는 JOIN)
+- OUTER JOIN
+- CROSS JOIN (Or 카테시안 조인)
+#### 테이블을 연결하기 위한 기술로 UNION / UNION ALL도 있음
+- 조인은 두 테이블을 좌우로 연결
+- 반면에 UNION / UNION ALL은 두 테이블으
 
 
 
