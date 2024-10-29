@@ -24,7 +24,7 @@ FROM 테이블1 별칭1
 WHERE 각 테이블의 필터 조건
 ```
 ### INNER JOIN 이해하기
-
+- INNER JOIN에 실패
 
 
 - mysql 책 끄적끄적 
