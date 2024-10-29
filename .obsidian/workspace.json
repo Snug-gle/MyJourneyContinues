@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-29.md",
+                "file": "Daily Notes/JOIN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-29"
+              "title": "JOIN"
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-29.md",
+                "file": "Daily Notes/JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-10-29의 백링크"
+              "title": "JOIN의 백링크"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-29.md",
+                "file": "Daily Notes/JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024-10-29의 나가는 링크"
+              "title": "JOIN의 나가는 링크"
             }
           },
           {
@@ -172,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-29.md"
+                "file": "Daily Notes/JOIN.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-29 개요"
+              "title": "JOIN 개요"
             }
           },
           {
@@ -226,7 +226,7 @@
   "active": "50025fc21cdbf31a",
   "lastOpenFiles": [
     "Daily Notes/2024-10-28(소송 상담용 임시 파일).md",
-    "Daily Notes/2024-10-29.md",
+    "Daily Notes/JOIN.md",
     "Inbox/실행계획.md",
     "Daily Notes/2024-10-20.md",
     "Inbox/무제 파일.md",
