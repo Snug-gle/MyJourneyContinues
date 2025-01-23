@@ -1,6 +1,0 @@
----
-tags:
-  - Java
-  - lecture
-  - OOP
----
