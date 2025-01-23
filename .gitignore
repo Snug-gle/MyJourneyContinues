@@ -211,8 +211,8 @@ $RECYCLE.BIN/
 .trash/
 .DS_Store
 
-/gitignore
-/Inbox
+/gitignore/
+/Inbox/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,intellij+all,obsidian,java,visualstudiocode
 
