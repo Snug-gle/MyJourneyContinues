@@ -13,7 +13,7 @@
 - **매칭 서비스 도메인**: RallyPoint-Match`
 	- 주요 엔티티: `Match`, GameType` (단식, 복식)
 	- 주요 기능: 플레이어 매칭, 경기 유형 선택, 매칭 결과 저장(이벤트 대회 시에만)
-- **회원 관리 도메인**: RallyPoint-User
+- [[ 회원 관리 도메인: RallyPoint-User ]]
 	- 주요 엔티티: `User`, `Role`, `Authority`
 	- 주요 기능: 사용자 등록, 로그인, 권한 관리, 사용자 정보 수정
 	- 기타: admin, member, court_manager
