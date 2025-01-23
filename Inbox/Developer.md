@@ -1,2 +1,2 @@
 [[LANG]]
-[[]]
+[[sample-why]]
