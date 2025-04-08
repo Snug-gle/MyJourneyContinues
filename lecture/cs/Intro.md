@@ -8,14 +8,16 @@
 			- Intel Smart Cache 12MB 
 			- TDP 65W 
 			- DDR4-3200 Memory Speed
-	- Main board
-		- 인터페이스(단자)
-			- PS/2
-			- VGA
-			- DVI
-			- 5Gb/s Type C
-			- HDMI
-			- USB 3.0
-			- 기가비트 랜 USB 2.0
-			- 오디오
-		- 주변기기
+		- Main board
+			- 인터페이스(단자): 주변기기와 Computer를 연결
+				- PS/2
+				- VGA
+				- DVI
+				- 5Gb/s Type C
+				- HDMI
+				- USB 3.0
+				- 기가비트 랜 USB 2.0
+				- 오디오
+			- CPU 소켓
+		- RAM
+			- 메인보드 빈슬롯에 연결
