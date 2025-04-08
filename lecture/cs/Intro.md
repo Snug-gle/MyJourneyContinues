@@ -1,11 +1,21 @@
 - 다나와 사이트 탐방
-	- 쓰레드: CPU 내부에서 실질적으로 업무를 수행하는 가장 작은 논리적 단위
-	- intel core i5 (CPU: 연산장치)
-		- core 6개: 연산을 수행하는 주체
-		- Thread 12개: 
-		- 4.4GHz Max
-		- 2.6GHz Base
-		- 12MB Intel Smart Cache\
-		- 65W TDP
-		- DDR4-3200 Memory Speed
-		- 미지원
+	- 컴퓨터
+		- intel core i5 (CPU: 연산장치)
+			- core 6개: 연산을 수행하는 주체
+			- Thread 12개: CPU 내부에서 실질적으로 업무를 수행하는 가장 작은 논리적 단위
+			- 4.4GHz Max
+			- 2.6GHz Base
+			- Intel Smart Cache 12MB 
+			- TDP 65W 
+			- DDR4-3200 Memory Speed
+	- Main board
+		- 인터페이스(단자)
+			- PS/2
+			- VGA
+			- DVI
+			- 5Gb/s Type C
+			- HDMI
+			- USB 3.0
+			- 기가비트 랜 USB 2.0
+			- 오디오
+		- 주변기기
