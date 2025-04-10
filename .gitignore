@@ -267,6 +267,7 @@ gradle-app.setting
 .trash/
 /project/inbox/
 /project/private/
+/area/work/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,intellij+all,obsidian,java,visualstudiocode
 
